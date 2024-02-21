@@ -1,0 +1,34 @@
+[
+  {
+    "uuid": "F58FA3DE-727E-1014-A523-3523BE3E07D6",
+    "token": "5vnt1Opb1Pz3NFqUqW5ikaPC4l58ynQvrs5VGoPe0wBUeBGcxNmB8EnFJIave02t5N",
+    "email": "UjkdwBc6UDWe1xyy0@pty.test.vix.tv",
+    "country": "US",
+    "externalId": "PTY:tx:UjkdwBc6UDWe1xyy0@pty.test.vix.tv",
+    "subscription": "directbilling-us-webpantaya-12mo"
+  },
+  {
+    "uuid": "F58FB3F6-727E-1014-A523-3523BE3E07D6",
+    "token": "rqFYVxzaJy3lHOvsjRefhoiTGQa0on7VhhdoRe2Z4xNwMacwa1Gj9eMKJLgOPQzgBj",
+    "email": "QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "country": "US",
+    "externalId": "PTY:tx:QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "subscription": "directbilling-us-webpantaya-1mo"
+  },
+  {
+    "uuid": "F58FB3F6-727E-1014-A523-3523BE3E07D6",
+    "token": "rqFYVxzaJy3lHOvsjRefhoiTGQa0on7VhhdoRe2Z4xNwMacwa1Gj9eMKJLgOPQzgBjoobt",
+    "email": "QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "country": "US",
+    "externalId": "PTY:tx:QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "subscription": "directbilling-us-webpantaya-1mo"
+  },
+  {
+    "uuid": "F58FB3F6-727E-1014-A523-3523BE3E07D5",
+    "token": "rqFYVxzaJy3lHOvsjRefhoiTGQa0on7VhhdoRe2Z4xNwMacwa1Gj9eMKJLgOPQzgBj",
+    "email": "QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "country": "US",
+    "externalId": "PTY:tx:QzpdP3sHfuxHl0nLE@pty.test.vix.tv",
+    "subscription": "directbilling-us-webpantaya-1mo"
+  }
+]
